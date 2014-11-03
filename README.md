@@ -6,7 +6,7 @@ El teorema de Pitágoras establece que en todo triángulo rectángulo, el cuadra
 
 ![TEOREMA DE PITAGORAS](http://files.matesxto2la2.webnode.es/200000515-94fad96ee7/formula.jpg)
 
-- bb
+
 
 
 
