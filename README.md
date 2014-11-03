@@ -1,6 +1,7 @@
-# Modificame
+# Pitágoras
+## ¿Qué nos dice Pitágoras?
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+El teorema de Pitágoras establece que en todo triángulo rectángulo, el cuadrado de la hipotenusa (el lado de mayor longitud del triángulo rectángulo) es igual a la suma de los cuadrados de los catetos (los dos lados menores del triángulo, los que conforman el ángulo recto).
 
 > Es nuestro arenero personal
 
