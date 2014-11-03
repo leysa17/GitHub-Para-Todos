@@ -13,3 +13,5 @@ El teorema de Pitágoras establece que en todo triángulo rectángulo, el cuadra
 
 
 
+
+
